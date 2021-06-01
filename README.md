@@ -10,7 +10,7 @@
   <li>🇲🇽 Mexican</li>
   <li>👩🏻‍💻 Competitive Programmer</li>
   <ul> 
-    <li>OVI 2019🥈 and 2020🥇 | OMI 2019🎖️ and 2020🥉 | EGOI 2021 ⏳🖥️</li>
+    <li>OVI 2019🥈/2020🥇 | OMI 2019🎖️/2020🥉 | EGOI 2021 ⏳🖥️</li>
   </ul>
   <li>👩🏻‍🏫 Experience teaching programming to different students and teacher training </li>
   <li>📱 TechLover</li>
