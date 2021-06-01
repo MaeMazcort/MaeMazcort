@@ -5,10 +5,13 @@
 <img align="left" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="300" />
 
 ### About me
-🔹 She/Her👩
-🔹 18 years🗯️
-🔹 Competitive Programmer👩🏻‍💻
-🔹 Mexican 🇲🇽
+🔹 She/Her👩 <br />
+🔹 18 years🗯️ <br />
+🔹 Mexican 🇲🇽 <br />
+🔹 Competitive Programmer👩🏻‍💻 <br />
+&nbsp; &nbsp; &nbsp; 🔸 OVI 2019🥈 and 2020🥇 | OMI 2019🎖️ and 2020🥉 | EGOI 2021 ⏳🖥️ <br />
+🔹 Experiencia al enseñar programación a diferentes alumnos y capacitación de maestros👩🏻‍🏫 <br />
+🔹 TechLover📱 <br />
 
 ### Social Media:
 
