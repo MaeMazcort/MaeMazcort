@@ -15,12 +15,16 @@
 
 ### Social Media:
 
-<a href="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+<a href="https://www.instagram.com/mae_mazcortwo/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/nina-maeva-mazadiego-cortes-156474213/">
     <img src="https://img.shields.io/badge/LinkedIn-7289DA?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.tiktok.com/@mae_mazcort">
+    <img src="https://img.shields.io/badge/TikTok-E4405F?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
 
 <br />
