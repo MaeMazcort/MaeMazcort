@@ -1,4 +1,4 @@
-# Hey!, it's Maeva💙
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hey!, it's Maeva💙 </h1>
 
 ## I study an engineering in computer systems. I love learning new stuff every time I can🖥️
 
