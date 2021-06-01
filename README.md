@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hey!, it's Maeva💙
 
-<!--
-**MaeMazcort/MaeMazcort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I study an engineering in computer systems. I love learning new stuff every time I can🖥️
 
-Here are some ideas to get you started:
+<img align="left" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="300" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+🔹 She/Her👩
+🔹 18 years🗯️
+🔹 Competitive Programmer👩🏻‍💻
+🔹 Mexican 🇲🇽
+
+### Social Media:
+
+<a href="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/nina-maeva-mazadiego-cortes-156474213/">
+    <img src="https://img.shields.io/badge/LinkedIn-7289DA?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br />
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MaeMazcort&style=flat-square&color=A6E22E" alt="Visitors Badge"/>
+</p>
