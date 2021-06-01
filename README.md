@@ -2,7 +2,7 @@
 
 ## I study an engineering in computer systems. I love learning new stuff every time I can🖥️
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="300" />
+<img align="left" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="350" height="350" />
 
 ### About me
 🔹 She/Her👩 <br />
@@ -25,5 +25,5 @@
 
 <br />
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=MaeMazcort&style=flat-square&color=A6E22E" alt="Visitors Badge"/>
+<img src="https://komarev.com/ghpvc/?username=MaeMazcort&style=flat-square&color=0066ff" alt="Visitors Badge"/>
 </p>
