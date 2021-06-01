@@ -15,14 +15,15 @@
   <li>👩🏻‍🏫 Experience teaching programming to different students and teacher training </li>
   <li>📱 TechLover</li>
   <li>🗣️ English and Spanish</li>
+  <li>🤓 Nerdy but cool </li>
 <ul>
 
 ### I'm currently
 <ul>
   <li>🥖 Learning French</li>
-  <li>🐍 Python</li>
+  <li>🐍 Learning Python</li>
   <li>📹 Creating Content </li>
-  <li>🥴 Tons of stuff </li>
+  <li>🥴 Doing tons of stuff </li>
 </ul>
 
 ### Social Media:
