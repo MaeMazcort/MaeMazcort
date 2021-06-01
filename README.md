@@ -18,7 +18,12 @@
 <ul>
 
 ### I'm currently
-
+<ul>
+  <li>🥖 Learning French</li>
+  <li>🐍 Python</li>
+  <li>📹 Creating Content </li>
+  <li>🥴 Tons of stuff </li>
+</ul>
 
 ### Social Media:
 
