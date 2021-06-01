@@ -16,6 +16,8 @@
   <li>📱 TechLover</li>
   <li>🗣️ English and Spanish</li>
   <li>🤓 Nerdy but cool </li>
+  <li>🧩 Like Rubik's cubes </li>
+  <li>📷 Love photography and videography </li>
 <ul>
 
 ### I'm currently
@@ -26,9 +28,9 @@
   <li>🥴 Doing tons of stuff </li>
 </ul>
 
-### Social Media:
 
-<h1 aling="center">
+<h2 align="center">
+<p>Social Media</p>
 <a href="https://www.instagram.com/mae_mazcortwo/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
