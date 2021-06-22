@@ -26,7 +26,6 @@
   <li>🐍 Learning Python</li>
   <li>📹 Creating Content </li>
   <li>🥴 Doing tons of stuff </li>
-  <li>⌨️ Studing for the EGOI 2021</li>
 </ul>
 <br>
   
