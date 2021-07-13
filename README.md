@@ -22,7 +22,9 @@
 
 ### I'm currently
 <ul>
+  <li>🔹 On an Internship at Auronix</li>
   <li>🥖 Learning French</li>
+  <li>🐋 Learning Docker</li>
   <li>🐍 Learning Python</li>
   <li>📹 Creating Content </li>
   <li>🥴 Doing tons of stuff </li>
