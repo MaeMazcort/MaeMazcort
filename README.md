@@ -8,7 +8,7 @@
   <li>👩 She/Her</li>
   <li>🗯️ 18 years</li>
   <li>🇲🇽 Mexican</li>
-  <li>👩🏻‍🏫 MLSA (Microsft Learn Student Ambassador)</li>
+  <li>👩🏻‍🏫 MLSA (Microsoft Learn Student Ambassador)</li>
   <li>👩🏻‍💻 Competitive Programmer</li>
   <ul> 
     <li>OVI 2019🥈/2020🥇 | OMI 2019/2020🥉 | EGOI 2021</li>
