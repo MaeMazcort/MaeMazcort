@@ -10,7 +10,6 @@
 <a  href="https://www.youtube.com/c/MaeMazcort"  target="_blank"><img  src="https://img.shields.io/badge/YouTube-D02929?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a  href="https://www.tiktok.com/@mae_mazcort"  target="_blank"><img src="https://img.shields.io/badge/TikTok-D02929?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 <a  href="https://twitter.com/mae_mazcort"  target="_blank"><img src="https://img.shields.io/badge/Twitter-D02929?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a  href="https://twitter.com/mae_mazcort"  target="_blank"><img src="https://img.shields.io/badge/Twitter-D02929?style=for-the-badge&logo=document&logoColor=white"></a>
 </p>
 
 <img align="right" alt="GIF" src="maeva.gif" width="400" height="400" />
