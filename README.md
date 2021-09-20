@@ -1,9 +1,19 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hey!, it's Maeva💙 </h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hey!, it's Maeva🤍 </h1>
 <h3 aling="center">I study an engineering in computer systems. I love learning new stuff every time I can <img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="35"> </h3>
+
+
+
+<p align="center">
+<a  href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mazcort.contacto@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/-Email-D02929?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a  href="https://www.linkedin.com/in/maeva-mazadiego"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-D02929?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a  href="https://www.instagram.com/mae_mazcort/"  target="_blank"><img  src="https://img.shields.io/badge/-Instagram-D02929?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a  href="https://www.youtube.com/c/MaeMazcort"  target="_blank"><img  src="https://img.shields.io/badge/YouTube-D02929?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a  href="https://www.tiktok.com/@mae_mazcort"  target="_blank"><img src="https://img.shields.io/badge/TikTok-D02929?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+</p>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="350" height="350" />
 
-### About me
+<h2>About me</h2>
 <ul>
   <li>👩 She/Her</li>
   <li>🗯️ 18 years</li>
@@ -21,40 +31,70 @@
   <li>📷 Love photography and videography </li>
 <ul>
 
-### I'm currently
+<h2>I'm currently</h2>
 <ul>
   <li>🔹 On an Internship at Auronix</li>
   <li>🥖 Learning French</li>
+  <li>☁️ Learning AWS</li>
   <li>🐋 Learning Docker</li>
   <li>🐍 Learning Python</li>
   <li>📹 Creating Content </li>
-  <li>🥴 Doing tons of stuff </li>
 </ul>
-<br>
   
+<h2>Programming Languages and Technologies I know</h2>
 
-<h2 align="center">
-  <p>Stuff I know and use</p>
-<img alt="Visual Studio Code" width="50px"  src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>
-<img alt="Python" width="50px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<br> <br> 
+<a  href="#"><img  src="https://img.shields.io/badge/-C++-0D1117?style=rounded-square&logo=cplusplus&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/-C Sharp-0D1117?style=rounded-square&logo=csharp&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/-C-0D1117?style=rounded-square&logo=c&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/-Java-0D1117?style=rounded-square&logo=java&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/-Python-0D1117?style=rounded-square&logo=python&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/-PHP-0D1117?style=rounded-square&logo=php&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/.NET-%230D1117.svg?style=rounded-square&logo=.net&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/Markdown-%230D1117.svg?style=rounded-square&logo=markdown&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/-HTML5-0D1117?style=rounded-square&logo=html5&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/-CSS3-0D1117?style=rounded-square&logo=css3&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/Git-0D1117.svg?style=rounded-square&logo=git&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/GitHub-0D1117.svg?style=rounded-square&logo=github&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/Slack-0D1117.svg?style=rounded-square&logo=slack&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/-Docker-0D1117?style=rounded-square&logo=docker&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/Amazon%20AWS-0D1117?style=rounded-square&logo=amazon-aws&logoColor=D02929"></a>
+  <a  href="#"><img  src="https://img.shields.io/badge/-Raspberry%20Pi-0D1117?style=rounded-square&logo=Raspberry-Pi&logoColor=D02929"></a>
 
-<p>Social Media</p>
-<a href="https://www.instagram.com/mae_mazcortwo/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/nina-maeva-mazadiego-cortes-156474213/">
-    <img src="https://img.shields.io/badge/LinkedIn-7289DA?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.tiktok.com/@mae_mazcort">
-    <img src="https://img.shields.io/badge/TikTok-E4405F?style=for-the-badge&logo=tiktok&logoColor=white">
-</a> </h2>
+  
+<h2>Programming Languages and Technologies I want to learn</h2>
+<a  href="#"><img  src="https://img.shields.io/badge/-JavaScript-0D1117?style=rounded-square&logo=javascript&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/-TypeScript-0D1117?style=rounded-square&logo=typescript&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/Node-0D1117.svg?style=rounded-square&logo=node.js&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/React-0D1117.svg?style=rounded-square&logo=react&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/Flutter-0D1117.svg?style=rounded-square&logo=flutter&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/MySQL-0D1117.svg?style=rounded-square&logo=mysql&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/Microsoft Azure-0D1117.svg?style=rounded-square&logo=microsoftazure&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/Figma-0D1117.svg?style=rounded-square&logo=figma&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/-Swift-0D1117?style=rounded-square&logo=swift&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/-Go-0D1117?style=rounded-square&logo=go&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/-Digital%20Ocean-0D1117?style=rounded-square&logo=digitalocean&logoColor=D02929"></a>
 
-<br />
+<h4>Enviroment, IDEs and Tools</h4>
+
+<a  href="#"><img  src="https://img.shields.io/badge/VSCode-0D1117.svg?style=rounded-square&logo=visualstudiocode&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/IntelliJ IDEA-0D1117.svg?style=rounded-square&logo=intellijidea&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/-Windows-0D1117?style=rounded-square&logo=windows&logoColor=D02929"></a>
+
+<br/>
+
+  
+  <div align="center">
+<img  alt="Maeva's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=MaeMazcort&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=D02929&icon_color=D02929"  height="180"/>
+<img  alt="Maeva's Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaeMazcort&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=D02929&icon_color=D02929"  height="180"/>
+<br/>
+<i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+<br/>
+ <a href="#"><img alt="Maeva's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MaeMazcort&custom_title=MaeMazcort%20Contribution%20Graph&bg_color=0D1117&color=D02929&line=FFFFFF&point=D02929&hide_border=true" /></a>
+
+<br/>
+
+</div>
+<br/>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=MaeMazcort&style=flat-square&color=0066ff" alt="Visitors Badge"/>
+<img src="https://komarev.com/ghpvc/?username=MaeMazcort&style=flat-square&color=D02929" alt="Visitors Badge"/>
 </p>
