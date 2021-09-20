@@ -11,7 +11,7 @@
 <a  href="https://www.tiktok.com/@mae_mazcort"  target="_blank"><img src="https://img.shields.io/badge/TikTok-D02929?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="350" height="350" />
+<img align="right" alt="GIF" src="maeva.gif" width="400" height="400" />
 
 <h2>About me</h2>
 <ul>
@@ -74,8 +74,8 @@
 <a  href="#"><img  src="https://img.shields.io/badge/-Go-0D1117?style=rounded-square&logo=go&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/-Digital%20Ocean-0D1117?style=rounded-square&logo=digitalocean&logoColor=D02929"></a>
 
-<h4>Enviroment, IDEs and Tools</h4>
-
+<h2>Enviroment, IDEs and Tools</h2>
+<a  href="#"><img  src="https://img.shields.io/badge/VS-0D1117.svg?style=rounded-square&logo=visualstudiocode&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/VSCode-0D1117.svg?style=rounded-square&logo=visualstudiocode&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/IntelliJ IDEA-0D1117.svg?style=rounded-square&logo=intellijidea&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/-Windows-0D1117?style=rounded-square&logo=windows&logoColor=D02929"></a>
