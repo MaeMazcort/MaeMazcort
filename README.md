@@ -32,6 +32,7 @@
   <li>📷 Love photography and videography </li>
 <ul>
 
+  
 <h2>I'm currently</h2>
 <ul>
   <li>🔹 On an Internship at Auronix</li>
@@ -74,12 +75,14 @@
 <a  href="#"><img  src="https://img.shields.io/badge/-Swift-0D1117?style=rounded-square&logo=swift&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/-Go-0D1117?style=rounded-square&logo=go&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/-Digital%20Ocean-0D1117?style=rounded-square&logo=digitalocean&logoColor=D02929"></a>
+  <a  href="#"><img  src="https://img.shields.io/badge/-Kubernetes-0D1117?style=rounded-square&logo=kubernetes&logoColor=D02929"></a>
 
 <h2>Enviroment, IDEs and Tools</h2>
 <a  href="#"><img  src="https://img.shields.io/badge/VS-0D1117.svg?style=rounded-square&logo=visualstudiocode&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/VSCode-0D1117.svg?style=rounded-square&logo=visualstudiocode&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/IntelliJ IDEA-0D1117.svg?style=rounded-square&logo=intellijidea&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/-Windows-0D1117?style=rounded-square&logo=windows&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/-Linux-0D1117?style=rounded-square&logo=linux&logoColor=D02929"></a>
 
 <br/>
 
