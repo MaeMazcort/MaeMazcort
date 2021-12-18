@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hey!, it's Maeva🤍 </h1>
-<h3 aling="center">I study an engineering in computer systems. I love learning new stuff every time I can <img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="35"> </h3>
+<h3 aling="center">Computer Systems Engineering | Incoming Microsoft Explorer Intern Summer '22 | Microsoft Learn Student Ambassador | Love learning new things <img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="35"> </h3>
 
 
 
@@ -19,6 +19,7 @@
   <li>👩 She/Her</li>
   <li>🗯️ 18 years</li>
   <li>🇲🇽 Mexican</li>
+  <li>🇺🇸 Incomming Microsoft Explorer Intern</li>
   <li>👩🏻‍🏫 MLSA (Microsoft Learn Student Ambassador)</li>
   <li>👩🏻‍💻 Competitive Programmer</li>
   <ul> 
@@ -31,11 +32,9 @@
   <li>🧩 Like Rubik's cubes </li>
   <li>📷 Love photography and videography </li>
 <ul>
-
   
 <h2>I'm currently</h2>
 <ul>
-  <li>🔹 On an Internship at Auronix</li>
   <li>🥖 Learning French</li>
   <li>☁️ Learning AWS</li>
   <li>🐋 Learning Docker</li>
@@ -93,9 +92,12 @@
 <br/>
 <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 <br/>
- <a href="#"><img alt="Maeva's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MaeMazcort&custom_title=MaeMazcort%20Contribution%20Graph&bg_color=0D1117&color=D02929&line=FFFFFF&point=D02929&hide_border=true" /></a>
-
+<!--
+    <a href="#"><img alt="Maeva's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MaeMazcort&custom_title=MaeMazcort%20Contribution%20Graph&bg_color=0D1117&color=D02929&line=FFFFFF&point=D02929&hide_border=true" /></a>
+-->
 <br/>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="maeva-mazadiego" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/maeva-mazadiego/es?trk=profile-badge">Nina Maeva Mazadiego Cortés</a></div> 
+<br/>        
 
 </div>
 <br/>
