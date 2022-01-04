@@ -19,7 +19,7 @@
   <li>👩 She/Her</li>
   <li>🗯️ 18 years</li>
   <li>🇲🇽 Mexican</li>
-  <li>🇺🇸 Incomming Microsoft Explorer Intern</li>
+  <li>🇺🇸 Incoming Microsoft Explorer Intern</li>
   <li>👩🏻‍🏫 MLSA (Microsoft Learn Student Ambassador)</li>
   <li>👩🏻‍💻 Competitive Programmer</li>
   <ul> 
