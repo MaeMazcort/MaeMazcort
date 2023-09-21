@@ -17,9 +17,9 @@
 <h2>About me</h2>
 <ul>
   <li>👩 She/Her</li>
-  <li>🗯️ 19 years</li>
+  <li>🗯️ 20 years</li>
   <li>🇲🇽 Mexican</li>
-  <li>🇺🇸 Ex-Microsoft Explorer Intern</li>
+  <li>🇺🇸 Ex-Microsoft Explorer and SWE Intern</li>
   <li>👩🏻‍🏫 MLSA (Microsoft Learn Student Ambassador)</li>
   <li>👩🏻‍💻 Competitive Programmer</li>
   <ul> 
