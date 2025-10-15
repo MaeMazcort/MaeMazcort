@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hey!, it's Maeva🤍 </h1>
-<h3 aling="center">Computer Systems Engineering | Microsoft SWE Intern | Love learning new things <img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="35"> </h3>
+<h3 aling="center">Computer Systems Engineering | Apple SWE Intern | Love learning new things <img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="35"> </h3>
 
 
 
@@ -19,7 +19,7 @@
   <li>👩 She/Her</li>
   <li>🗯️ 22 years</li>
   <li>🇲🇽 Mexican</li>
-  <li>🇺🇸 Ex-Microsoft Explorer and SWE Intern</li>
+  <li>🇺🇸 Ex-Apple and Ex-Microsoft SWE Intern</li>
   <li>👩🏻‍💻 Competitive Programmer</li>
   <ul> 
     <li>OVI 2019🥈/2020🥇 | OMI 2019/2020🥉 | EGOI 2021</li>
